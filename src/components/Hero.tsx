@@ -25,7 +25,7 @@ const Hero: React.FC = () => {
               </span>{' '}
               with{' '}
               <span className="bg-gradient-to-r from-primary-400 to-primary-600 bg-clip-text text-transparent">
-                Mayra
+                satish
               </span>
             </h1>
           </div>
