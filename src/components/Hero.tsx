@@ -45,7 +45,7 @@ const Hero: React.FC = () => {
               
               <button className="group flex items-center text-white px-8 py-4 rounded-xl font-poppins font-medium text-lg border-2 border-primary-600/50 hover:border-primary-500 backdrop-blur-sm bg-white/5 hover:bg-white/10 transition-all duration-300">
                 <Play className="mr-2 group-hover:scale-110 transition-transform" size={20} />
-                Watch Demo
+                see me 
               </button>
             </div>
           </div>
