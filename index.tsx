@@ -756,8 +756,8 @@ const Contact = () => {
                         <div className="contact-info">
                             <h3>Let's build something amazing together.</h3>
                             <p>Have a project in mind or just want to say hello? Drop us a line.</p>
-                            <p><strong>Email:</strong> talhatai1356@gmail.com</p>
-                            <p><strong>Phone:</strong> 9511892846</p>
+                            <p><strong>Email:</strong> info@admayratech.com</p>
+                            <p><strong>Phone:</strong> +91 91122 93040</p>
                             <div className="social-links">
                                 <a href="https://www.linkedin.com/in/talha-tai" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><LinkedinIcon /></a>
                                 <a href="https://github.com/Talha1356" target="_blank" rel="noopener noreferrer" aria-label="GitHub"><GithubIcon /></a>
